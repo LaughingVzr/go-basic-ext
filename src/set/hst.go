@@ -3,7 +3,6 @@ package set
 import (
 	"bytes"
 	"fmt"
-	"math"
 )
 
 type HashSet struct {
